@@ -1,0 +1,12 @@
+#include <ezTime.h>
+
+waitForSync();
+
+  Serial.println("UTC: " + UTC.dateTime());
+
+  GB.setLocation("Europe/London");
+  Serial.println("London time: " + GB.dateTime());  
+void loop() {
+  delay(1000);
+  Serial.println(GB.dateTime("H:i:s")); // UTC.dateTime("l, d-M-y H:i:s.v T")
+}
