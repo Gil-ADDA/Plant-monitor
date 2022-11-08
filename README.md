@@ -1,3 +1,7 @@
+
+# Overview
+personal plant monitor to keep our lovley plant alive - with monitoring air temperature, air humidity, soil moisture. 
+the choosen plant is ficus moclame pyramid 
 # Plant-monitor parts 
 1. 2 nails/soil pin
 2. wierd for the nails  
@@ -5,8 +9,7 @@
 
 
 
-# Overview
-personal plant monitor to keep our lovley plant alive - with monitoring air temperature, air humidity, soil moisture
+
 
 
 # Hardware 
@@ -18,6 +21,10 @@ personal plant monitor to keep our lovley plant alive - with monitoring air temp
  Influxdb 
  telegraf 
  grafana
+ 
+ 
+ # The Arcitecture
+ 
  
 
 
