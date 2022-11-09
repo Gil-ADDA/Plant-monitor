@@ -1,6 +1,6 @@
 
 # Overview
-personal plant monitor to keep our lovley plant alive - with monitoring air temperature, air humidity, soil moisture. 
+personal plant monitor to keep my lovley plant alive - with monitoring air temperature, air humidity, soil moisture. 
 the choosen plant is ficus moclame pyramid https://www.patchplants.com/gb/en/plants/ficus-microcarpa-moclame-780/ 
 
 # Plant-monitor adisional parts 
