@@ -23,6 +23,8 @@ what type of code you use
 #General facts that have to put under the right title
 connecting the data to time series in arduino on the sensor 
 and install time on the RAS-PI
+
+SD CARD install the RA-PI software on it for then use the shell. to configure the RA-PI to Plugin with INfluxDB Telegraf and grafana 
 MQTT share the data with CASA STAFF 
 
 Data that suprise me is the mouister data that have up and down and affected by the amount of people that in the LAB and 
