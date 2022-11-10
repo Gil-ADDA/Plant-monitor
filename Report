@@ -20,6 +20,19 @@ what you did with the arduino app to make all work
 
 what type of code you use 
 
+#General facts that have to put under the right title
+connecting the data to time series in arduino on the sensor 
+and install time on the RAS-PI
+MQTT share the data with CASA STAFF 
+
+Data that suprise me is the mouister data that have up and down and affected by the amount of people that in the LAB and 
+that effect as well on the temperature inside the class 
+
+we dont really need to use grafan to display the data cause INFLUXDB doing that as well but what i have learnd that grafan can make lot of query and it is very powerfull tool to display few component of data
+
+using API KEY - TOKEN 
+
+generally the plant monitor shoudld run for 9 months in thouse condition in class but i would recommned to check the nails ones a months and to check the condition of the nails. 
 
 
 Humidity vs moisture_ 
