@@ -20,10 +20,11 @@ the choosen plant is ficus moclame pyramid https://www.patchplants.com/gb/en/pla
 # Workspace
 Thouse are for installing the 
 1. Shell (Terminal)
+To use "sudo" command for first update the hostname of the R-Pi
 For connecting to the RPi and configure the communication between (telegraf, InfluxDB, grafana)
 and to connect to the weather station of casa for getting real time outdoor temperature and humidity
 
-3. Arduino IDE 2.0.1 
+2. Arduino IDE 2.0.1 
 (for download the libararies and and connecting to the MQTT) 
 
 
@@ -81,6 +82,8 @@ Raspberry pi communicate with MQTT
  
  
  # About the data 
+ 
+ Raspberry Pi connecting to the CE-server and the data from HUZZAH flow via the CE server to R-Pi and manage it to communicate with telegraf  
  the data store in the InfluxDB that convert by telegraf
  the qery about the data is it possible to do with InfluxDB and with grafana 
  
