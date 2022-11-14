@@ -5,11 +5,13 @@ the choosen plant is ficus moclame pyramid https://www.patchplants.com/gb/en/pla
 
 # Plant-monitor adisional parts 
 1. 2 design part for covering the Feather Huzzah board 
-2. wierd for connecting the nails to the Feather Huzzah  
-3. 2 nails as a soil pin
+2. MicroUSB for power Huzzah board
+3. Wierd for connecting the nails to the Feather Huzzah  
+4. 2 nails as a soil pin
+5. DHT 22 Sensor temperature and humidity sensor
 ![Board coverd picture with 2 nails and wired](IMG/B-C.jpeg)
 
-The tools that we use are Raspberry Pi-4, 5V power supply, microSD card, Adafruit Feather HUZZAH ESP8266 Wifi, DHT 22 Sensor temperature and humidity sensor
+4. Raspberry Pi-4, 5V power supply, microSD card
 
 
 # Workspace
@@ -27,6 +29,8 @@ and to connect to the weather station of casa for getting real time outdoor temp
 Adafruit Feather HUZZAH ESP8266 Wifi communicate MQTT 
  ![Example Arduino Screenshot](IMG/MQTTWIFI.png)
  
+ 
+ 
 Raspberry pi communicate with MQTT 
  ![Shell Screenshot](IMG/Rpi-c-MQ.jpeg)
  
@@ -40,7 +44,15 @@ Raspberry pi communicate with MQTT
  1. Adafruit Feather HUZZAH ESP8266  Wifi 
  To convert the data to be analog and send that to the MQTT server  
  2. Raspberry Pi 4 play as a computer (install Raspberyy Pi OS 64 bit - https://www.raspberrypi.com/software/
- 3. DHT 22 Sensor temperature and humidity sensor (IMG/DHT22.jpeg)
+
+
+
+ 4. DHT 22 Sensor temperature and humidity sensor 
+
+
+
+
+ ![DHT-P]!(IMG/DHT22.jpeg)
  
 
  
@@ -58,6 +70,12 @@ Raspberry pi communicate with MQTT
  
  # The Arcitecture
 
+ 
+ 
+ 
+ 
+ 
+ 
  
  # About the data 
  the data store in the InfluxDB that convert by telegraf
