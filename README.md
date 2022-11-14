@@ -12,6 +12,7 @@ the choosen plant is ficus moclame pyramid https://www.patchplants.com/gb/en/pla
 ![Board coverd picture with 2 nails and wired](IMG/B-C.jpeg)
 
 4. Raspberry Pi-4, 5V power supply, microSD card
+![Photo of Rpi-power-SD] (IMG/Rpi-P-SD.jpeg)
 
 
 # Workspace
