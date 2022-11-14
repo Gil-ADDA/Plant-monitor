@@ -4,16 +4,25 @@ personal plant monitor to keep my lovley plant alive - with monitoring air tempe
 the choosen plant is ficus moclame pyramid https://www.patchplants.com/gb/en/plants/ficus-microcarpa-moclame-780/ 
 
 # Plant-monitor adisional parts 
-1. 2 design part for covering the plant moniture
+1. 2 design part for covering the Feather Huzzah board 
 2. wierd for connecting the nails to the Feather Huzzah  
 3. 2 nails as a soil pin
+![Board coverd picture with 2 nails and wired](IMG/B-C.jpeg)
 
-The tools that we use are Raspberry Pi-4, 5V power supply, SD card GB, Adafruit Feather HUZZAH ESP8266 Wifi, DHT 22 Sensor temperature and humidity sensor, 2 Nails, wired for more technical details you can watch my git repository
+The tools that we use are Raspberry Pi-4, 5V power supply, microSD card, Adafruit Feather HUZZAH ESP8266 Wifi, DHT 22 Sensor temperature and humidity sensor, 2 Nails, wired for more technical details you can watch my git repository
+
+
 # Workspace
 Thouse are for installing the 
 1. Shell (Terminal)
-2. Arduino IDE 2.0.1 
+For connecting to the RPi and configure the communication between (telegraf, InfluxDB, grafana)
+and to connect to the weather station of casa for getting real time outdoor temperature and humidity
+![Example Arduino Screenshot](IMG/Rpi-c-MQ.jpeg)
+3. Arduino IDE 2.0.1 
 (for download the libararies and and connecting to the MQTT) 
+
+
+
 # MQTT side of the project 
 Adafruit Feather HUZZAH ESP8266 Wifi communicate MQTT 
  ![Example Arduino Screenshot](IMG/MQTTWIFI.png)
@@ -46,8 +55,10 @@ Raspberry pi communicate with MQTT
  
  ![Example Dashboard Screenshot](IMG/Airhumi.png)
  
-  ![Example Dashboard Screenshot](IMG/Airtemp.png)
+ ![Example Dashboard Screenshot](IMG/Airtemp.png)
  
+ # Part one 
+
  
 
 
