@@ -8,7 +8,7 @@ the choosen plant is ficus moclame pyramid https://www.patchplants.com/gb/en/pla
 2. wierd for connecting the nails to the Feather Huzzah  
 3. 2 nails as a soil pin
 
-![Example Dashboard Screenshot](IMG/Air humidity.png)
+![Example Dashboard Screenshot](IMG/Airhumi.png)
 
 
 # Hardware 
