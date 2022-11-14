@@ -30,7 +30,7 @@ the choosen plant is ficus moclame pyramid https://www.patchplants.com/gb/en/pla
  what is the diffrent between thouse platform ? 
  
  # The Arcitecture
- ![Example Dashboard Screenshot](img/raspberry_system_dashboard.png)
+ ![Example Dashboard Screenshot](IMG/Air humidity.png)
  
  # About the data 
  the data store in the InfluxDB that convert by telegraf
