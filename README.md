@@ -9,6 +9,8 @@ the choosen plant is ficus moclame pyramid https://www.patchplants.com/gb/en/pla
 3. Wierd for connecting the nails to the Feather Huzzah  
 4. 2 nails as a soil pin
 5. DHT 22 Sensor temperature and humidity sensor
+
+
   ![Board coverd picture with 2 nails and wired](IMG/B-C.jpeg)
 
 4. Raspberry Pi-4, 5V power supply, microSD card
@@ -53,7 +55,7 @@ Raspberry pi communicate with MQTT
 
 
 
-   ![DHT-P]!(Plant-monitor/IMG/DHT22.jpeg)
+   ![DHT-P]!(IMG/DHT22.jpeg)
  
 
  
