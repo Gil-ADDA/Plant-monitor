@@ -8,8 +8,12 @@ the choosen plant is ficus moclame pyramid https://www.patchplants.com/gb/en/pla
 2. wierd for connecting the nails to the Feather Huzzah  
 3. 2 nails as a soil pin
 
-![Example Dashboard Screenshot](IMG/Air humidity.png)
+The tools that we use are Raspberry Pi-4, 5V power supply, SD card GB, Adafruit Feather HUZZAH ESP8266 Wifi, DHT 22 Sensor temperature and humidity sensor, 2 Nails, wired for more technical details you can watch my git repository
 
+# MQTT side of the project 
+Adafruit Feather HUZZAH ESP8266 Wifi communicate MQTT 
+ ![Example Arduino Screenshot](IMG/MQTTWIFI.png)
+Raspberry pi communicate with MQTT 
 
 # Hardware 
  1. Adafruit Feather HUZZAH ESP8266  Wifi 
@@ -30,12 +34,15 @@ the choosen plant is ficus moclame pyramid https://www.patchplants.com/gb/en/pla
  what is the diffrent between thouse platform ? 
  
  # The Arcitecture
- ![Example Dashboard Screenshot](IMG/Air humidity.png)
+
  
  # About the data 
  the data store in the InfluxDB that convert by telegraf
  the qery about the data is it possible to do with InfluxDB and with grafana 
  
+ ![Example Dashboard Screenshot](IMG/Airhumi.png)
+ 
+  ![Example Dashboard Screenshot](IMG/Airtemp.png)
  
  
 
