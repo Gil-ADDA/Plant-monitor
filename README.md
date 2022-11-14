@@ -40,7 +40,8 @@ Raspberry pi communicate with MQTT
  1. Adafruit Feather HUZZAH ESP8266  Wifi 
  To convert the data to be analog and send that to the MQTT server  
  2. Raspberry Pi 4 play as a computer (install Raspberyy Pi OS 64 bit - https://www.raspberrypi.com/software/
- 3. DHT 22 Sensor temperature and humidity sensor (IMG/DHT22.jpeg)
+ 3. DHT 22 Sensor temperature and humidity sensor 
+ !(IMG/DHT22.jpeg)
  
 
  
