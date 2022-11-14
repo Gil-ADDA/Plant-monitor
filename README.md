@@ -9,10 +9,10 @@ the choosen plant is ficus moclame pyramid https://www.patchplants.com/gb/en/pla
 3. Wierd for connecting the nails to the Feather Huzzah  
 4. 2 nails as a soil pin
 5. DHT 22 Sensor temperature and humidity sensor
-![Board coverd picture with 2 nails and wired](IMG/B-C.jpeg)
+  ![Board coverd picture with 2 nails and wired](IMG/B-C.jpeg)
 
 4. Raspberry Pi-4, 5V power supply, microSD card
-![Photo of Rpi-power-SD] (IMG/Rpi-P-SD.jpeg)
+  ![Photo of Rpi-power-SD] (IMG/Rpi-P-SD.jpeg)
 
 
 # Workspace
@@ -28,12 +28,12 @@ and to connect to the weather station of casa for getting real time outdoor temp
 
 # MQTT side of the project 
 Adafruit Feather HUZZAH ESP8266 Wifi communicate MQTT 
- ![Example Arduino Screenshot](IMG/MQTTWIFI.png)
+   ![Example Arduino Screenshot](IMG/MQTTWIFI.png)
  
  
  
 Raspberry pi communicate with MQTT 
- ![Shell Screenshot](IMG/Rpi-c-MQ.jpeg)
+   ![Shell Screenshot](IMG/Rpi-c-MQ.jpeg)
  
 
 
@@ -53,7 +53,7 @@ Raspberry pi communicate with MQTT
 
 
 
- ![DHT-P]!(IMG/DHT22.jpeg)
+   ![DHT-P]!(IMG/DHT22.jpeg)
  
 
  
@@ -82,9 +82,9 @@ Raspberry pi communicate with MQTT
  the data store in the InfluxDB that convert by telegraf
  the qery about the data is it possible to do with InfluxDB and with grafana 
  
- ![Example Dashboard Screenshot](IMG/Airhumi.png)
+   ![Example Dashboard Screenshot](IMG/Airhumi.png)
  
- ![Example Dashboard Screenshot](IMG/Airtemp.png)
+   ![Example Dashboard Screenshot](IMG/Airtemp.png)
  
  # Part one 
 
