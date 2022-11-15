@@ -83,9 +83,12 @@ Raspberry pi communicate with MQTT
  
  # About the data 
  
- Raspberry Pi connecting to the CE-server and the data from HUZZAH flow via the CE server to R-Pi and manage it to communicate with telegraf  
- the data store in the InfluxDB that convert by telegraf
+ Raspberry Pi connecting to the CE-server and the data from HUZZAH flow via the CE server to R-Pi and manage it to communicate with telegraf and InfluxB by using Token. 
+ Notice: the browsers of Influx and grafana will work just when the R-pi powerd.  
+the data store in the InfluxDB that convert by telegraf
+ 
  the qery about the data is it possible to do with InfluxDB and with grafana 
+ My link to the grafana browser http://stud-pi-zczlgad.celab:8086/
  
    ![Example Dashboard Screenshot](IMG/Airhumi.png)
  
