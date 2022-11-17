@@ -16,7 +16,7 @@ The main tools that we used are two devices Raspberry Pi-4, Adafruit Feather HUZ
   ![Board coverd picture with 2 nails and wired](IMG/B-C.jpeg)
 
 4. Raspberry Pi-4, 5V power supply, microSD card
-  ![Photo of Rpi-power-SD] (IMG/Rpi-P-SD.jpeg)
+  ![Photo of Rpi-power-SD](IMG/Rpi-P-SD.jpeg)
 
 # Workspace
 1. Shell (Terminal)
@@ -32,7 +32,7 @@ and to connect to the weather station of casa for getting real time outdoor temp
 # MQTT side of the project 
 Adafruit Feather HUZZAH ESP8266 Wifi communicate MQTT 
    
-![Example of the data in MQTT] (IMG/MQTT-DATA.jpeg)
+![Example of the data in MQTT](IMG/MQTT-DATA.jpeg)
  
  
  
