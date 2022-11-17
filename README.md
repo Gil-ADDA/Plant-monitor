@@ -56,7 +56,7 @@ Raspberry pi communicate with MQTT
 
 
 
-   ![DHT-P]!(IMG/DHT22.jpeg)
+   ![DHT-P](IMG/DHT22.jpeg)
  
 
  
