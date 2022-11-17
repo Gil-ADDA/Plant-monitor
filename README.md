@@ -27,8 +27,15 @@ To use "sudo" command for first update the hostname of the R-Pi
 For connecting to the RPi and configure the communication between (telegraf, InfluxDB, grafana)
 and to connect to the weather station of casa for getting real time outdoor temperature and humidity
 
-2. Arduino IDE 2.0.1 
+2. Arduino IDE 2.0.1 is a C++ program language platform
 (for download the libararies and and connecting to the MQTT) 
+with the arduino I download the libararies into the Huzzah board and configure it with following: 
+Wifi chip with the local wifi<ESP8266WiFi.h>
+The connection to the server and sending requst to hanle the data <ESP8266WebServer.h>
+Time series in the events<ezTime.h>
+MQTT to communicate the data  <PubSubClient.h>
+Sensor DHT22 to allow to the sensor get the library he need to function <DHT.h>
+Sensor DHT22 to allow to the sensor get the library he need to function <DHT_U.h>
 
 ![Example Arduino Screenshot](IMG/MQTTWIFI.png)
 
