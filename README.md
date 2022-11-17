@@ -76,7 +76,7 @@ Raspberry pi communicate with MQTT
 
  
  
- 
+  ![Architecture Screenshot](IMG/Drawing1.png)
  
  
  
