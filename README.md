@@ -54,7 +54,7 @@ Raspberry pi communicate with MQTT
  2. Raspberry Pi 4 play as a computer (install Raspberyy Pi OS 64 bit - https://www.raspberrypi.com/software/)
  Attached picture while install the Rpi and configure our wifi connection hostname and the username and the password for the Rpi
  
- [Rpi during install](IMG/Rpi-SD.jpeg)
+  ![Rpi during install](IMG/Rpi-SD.jpeg)
 
 
 
