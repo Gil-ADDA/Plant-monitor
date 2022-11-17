@@ -73,6 +73,10 @@ Raspberry pi communicate with MQTT
  what is the diffrent between thouse platform ? 
  
  # The Arcitecture
+ 
+In my project as it can be seen the RPi was installed with telegrafto the Local server to the INflux and to the grafana. 
+The role of telegraf is to commmunicate in a efficient way with the MQTT and to daliver to the influxDD and grafana 
+
 
  
  
