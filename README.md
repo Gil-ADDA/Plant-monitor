@@ -13,9 +13,9 @@ The main tools that we used are two devices Raspberry Pi-4, Adafruit Feather HUZ
 5. DHT 22 Sensor temperature and humidity sensor
 
 
-  ![Board coverd picture with 2 nails and wired](IMG/B-C.jpeg)
+![Board coverd picture with 2 nails and wired](IMG/B-C.jpeg)
 
-4. Raspberry Pi-4, 5V power supply, microSD card
+6. Raspberry Pi-4, 5V power supply, microSD card 
   ![Photo of Rpi-power-SD](IMG/Rpi-P-SD.jpeg)
 
 # Workspace
