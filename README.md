@@ -1,6 +1,7 @@
 # Overview
 personal plant monitor to keep my lovely plant alive - by monitoring air temperature, air humidity, soil moisture. 
-The choosen plant is ficus Moclame pyramid https://www.patchplants.com/gb/en/plants/ficus-microcarpa-moclame-780/ 
+The choosen plant is ficus Moclame pyramid: 
+https://www.patchplants.com/gb/en/plants/ficus-microcarpa-moclame-780/ 
 
 Through this process, I found that there are many ways to connect plants to the internet. 
 The main tools that we used are two devices Raspberry Pi-4, Adafruit Feather HUZZAH ESP8266 Wifi with the DHT 22 Sensor temperature and humidity sensor, 2 Nails, and wired for more technical details, you can watch my git repository. Furthermore, for DIY plant monitors is no need to use MQTT or the weather station. 
@@ -36,6 +37,8 @@ Time series in the events<ezTime.h>
 MQTT to communicate the data  <PubSubClient.h>
 Sensor DHT22 to allow to the sensor get the library he need to function <DHT.h>
 Sensor DHT22 to allow to the sensor get the library he need to function <DHT_U.h>
+
+All the code publis int the [arduino folder](https://github.com/Gil-ADDA/Plant-monitor/tree/main/arduino):
 
 ![Example Arduino Screenshot](IMG/MQTTWIFI.png)
 
@@ -124,4 +127,5 @@ That information can publish because of the telegraf was installed on the Rpi at
  
 
 
-# hello world 
+# Hello world 
+[ The Plant ](IMG/68395.jpeg)
