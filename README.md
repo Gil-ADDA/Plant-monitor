@@ -33,13 +33,14 @@ and to connect to the weather station of casa for getting real time outdoor temp
 ![Example Arduino Screenshot](IMG/MQTTWIFI.png)
 
 # MQTT side of the project 
-Adafruit Feather HUZZAH ESP8266 Wifi communicate MQTT 
+Adafruit Feather HUZZAH ESP8266 Wifi communicate MQTT and you can see my plant valuses under the topic Gil-Adda (that all path shown in the picture) 
    
 ![Example of the data in MQTT](IMG/MQTT-DATA.jpeg)
  
  
  
-Raspberry pi communicate with MQTT 
+Configuration of the Raspberry pi communicate with weater station data from the  MQTT under the topic “UCL/90TCR/106/WST/celab_davis_vue/loop",
+"UCL/PSW/Garden/WST/dvp2/loop"
    ![Shell Screenshot](IMG/Rpi-c-MQ.jpeg)
  
 
@@ -106,7 +107,12 @@ the data store in the InfluxDB that convert by telegraf
  
  The picture in the buttom is the graph of the weater station of CASA and i connect to that as well to compare with my humidiy in the room and compare to  the temperature. 
  That can allow me todo more reaserch in the data and to make more accurate decisions that relate to the location and local condition that the plant put.
-   ![Example Dashboard Screenshot](IMG/Airtemp.png)
+   ![Example Dashboard Screenshot from grafan](IMG/Airtemp.png)
+   
+   
+In the influxdb screenshot, the data that illustrate is about the Rpi current condition CPu temperature which is ok 37 degree and the total memory. 
+That information can publish because of the telegraf was installed on the Rpi at the install process. 
+   ![Example Dashboard Screenshot from Influxdb](IMG/influxdb.png)
  
  
 
